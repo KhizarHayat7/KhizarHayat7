@@ -5,7 +5,7 @@ About Me
 I'm a 17-year-old self-taught developer who is learning web dev and focusing on creating relationships with programming communities to find more info about things the industry demands, obviously about AI. If somebody can really help me init. They could check me out on Insta or Discord: mrswee_.
 
 ---
-- 😄 Pronouns: Swee. People call me Swee:- It is inspired by Game Palword Pal  whos name is SweePa.
+-  Pronouns: Swee. People call me Swee:- It is inspired by Game Palword Pal  whos name is SweePa.
 
 ## 📚 Currently Learning
 -Learning From @Scrimba
@@ -13,7 +13,7 @@ I'm a 17-year-old self-taught developer who is learning web dev and focusing on 
 -CyberS
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ### Languages
 - TypeScript
@@ -39,7 +39,7 @@ I'm a 17-year-old self-taught developer who is learning web dev and focusing on 
 
 
 
-## 🌍 Future Vision
+##  Future Vision
 
 In the future, I'll prefer CyberSecurity and ML Eng  
 ---
