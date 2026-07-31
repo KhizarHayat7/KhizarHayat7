@@ -8,7 +8,7 @@ I'm a 17-year-old self-taught developer who is learning web dev and focusing on 
 -  Pronouns: Swee. People call me Swee:- It is inspired by Game Palword Pal  whos name is SweePa.
 
 ## 📚 Currently Learning
--Learning From @Scrimba
+
 -Backend Dev
 -CyberS
 ---
